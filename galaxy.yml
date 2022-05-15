@@ -17,13 +17,13 @@ readme: README.md
 # A list of the collection's content authors. Can be just the name or in the format 'Full Name <email> (url)
 # @nicks:irc/im.site#channel'
 authors:
-- your name <example@domain.com>
+- Daniel Trieu <dtrieu80@gmail.com>
 
 
 ### OPTIONAL but strongly recommended
 
 # A short summary description of the collection
-description: your collection description
+description: Ansible collection of roles to help manage Open Cluster Management (aka, Red Hat Advanced Cluster Management).
 
 # Either a single license or a list of licenses for content inside of a collection. Ansible Galaxy currently only
 # accepts L(SPDX,https://spdx.org/licenses/) licenses. This key is mutually exclusive with 'license_file'
@@ -45,13 +45,13 @@ tags: []
 dependencies: {}
 
 # The URL of the originating SCM repository
-repository: http://example.com/repository
+repository: https://github.com/dtrieu80/ocmtools
 
 # The URL to any online docs
-documentation: http://docs.example.com
+documentation: https://github.com/dtrieu80/ocmtools/blob/main/README.md
 
 # The URL to the homepage of the collection/project
 homepage: http://example.com
 
 # The URL to the collection issue tracker
-issues: http://example.com/issue/tracker
+issues: https://github.com/dtrieu80/ocmtools/issues
